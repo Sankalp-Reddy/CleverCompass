@@ -6,6 +6,7 @@ This project is a modern web application built using Vite, React, and TypeScript
 ## Table of Contents
 
 - [Project Overview](#project-overview)
+- [Live Demo](#live-demo)
 - [Getting Started](#getting-started)
 - [Scripts](#scripts)
 - [Dependencies](#dependencies)
@@ -17,6 +18,10 @@ This project is a modern web application built using Vite, React, and TypeScript
 ## Project Overview
 
 This project leverages the power of Vite for fast development, React for building user interfaces, and TypeScript for type safety. It includes a variety of UI components from Shadcn and uses Tailwind CSS for styling.
+
+## Live Demo
+
+A live demo of the website is available at [CleverCompass AI](https://clevercompass-ai.lovable.app/).
 
 ## Getting Started
 
