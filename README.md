@@ -27,8 +27,7 @@ To get started with this project, ensure you have Node.js and npm installed. You
 1. **Clone the repository:**
 
    ```sh
-   git clone <YOUR_GIT_URL>
-   cd <YOUR_PROJECT_NAME>
+   git clone https://github.com/Sankalp-Reddy/CleverCompass.git
    ```
 
 2. **Install dependencies:**
